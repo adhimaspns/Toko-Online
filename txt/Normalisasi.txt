@@ -1,0 +1,8 @@
+Normalisasi
+
+* adalah proses pembentukan struktur 
+
+Tujuan 
+* menghilangkan kerangkapan data
+* mengurangi komplesitas
+* mempermudah pemodifikasian
